@@ -293,7 +293,6 @@ function createh4(text) {
 }
 function createUL(list) {
   let elem = createElem("ul");
-  console.log(list);
   list.forEach((item) => {
     let li = createElem("li");
     li.textContent = item;
@@ -475,7 +474,6 @@ portfolioNavButton3.onclick = () => {
 
   PICTWappend(createh2("TRAINING AND SEMINARS"));
   getCurrentMember().trainingandseminars.forEach((seminar) => {
-    console.log(seminar);
     PDWappend(createh3(seminar.name));
     PDWappend(createUL(seminar.description));
   });
@@ -510,7 +508,6 @@ portfolioNavButton3.onclick = () => {
 // portfolioNavButton4 -> awards/extracurriculars
 portfolioNavButton4.onclick = () => {
   if (checkIfCurrentButton(pnbc4)) {
-    console.log("cant");
     return;
   }
   currentNavButton = pnbc4;

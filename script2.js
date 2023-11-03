@@ -372,9 +372,6 @@ function incrementSlider(currentIndex, sliderLength) {
 }
 
 function decrementSlider(currentIndex, sliderLength) {
-  currentIndex - 1 < 0
-    ? console.log(sliderLength - 1)
-    : console.log(currentIndex - 1);
   return currentIndex - 1 < 0 ? sliderLength - 1 : currentIndex - 1;
 }
 
