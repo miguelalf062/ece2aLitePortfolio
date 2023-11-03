@@ -483,7 +483,7 @@ function changeToAboutTheGroup() {
   professionaSummaryNameTitle.textContent = "ABOUT THE GROUP";
   professionalSummaryTitle.style.display = "none";
   professionalSummaryText.textContent =
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ac iaculis nisi, id interdum neque. Integer pellentesque mauris at sapien efficitur dignissim. Pellentesque non risus nec quam malesuada elementum. Fusce at rutrum libero. Mauris scelerisque mi erat, sed blandit dolor porttitor vel. Sed in est ullamcorper, porttitor lacus ut, hendrerit tortor. Suspendisse eleifend mauris ex, ac fringilla metus pharetra vulputate. Aliquam euismod, felis ut iaculis accumsan, ligula mi hendrerit arcu, quis mollis nulla neque dignissim eros.";
+    "A group of dedicated, passionate, and capable Electronics Engineers with backgrounds in various connected fields. Hungry for self-development, innovation, and making the world a better place.";
 
   professionalSummaryContainer.style.animation = "none";
   professionalSummary.style.animation = "none";
