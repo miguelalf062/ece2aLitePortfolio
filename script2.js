@@ -5,7 +5,7 @@ const membersFull = [
     name: "Carl Justine E Pastrana",
     lastName: "Pastrana",
     professionalSummary:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid dicta itaque voluptatibus vitae, maxime esse architecto dolore corporis sapiente facilis adipisci id ad amet quas dignissimos repudiandae necessitatibus. Accusantium, enim?",
+      "Free spirited and fast learning, having experience in inter school competitions and training, with knowledge majorly in science and technology, and a huge desire for continuous growth, backed with the willingness to learn everything encountered to further self development",
     education: {
       college: "Bulacan State University-Main Campus",
       highschool: "San Ildefonso National High School",
