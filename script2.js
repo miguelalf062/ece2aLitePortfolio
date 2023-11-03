@@ -289,7 +289,7 @@ const members = [
   { name: "JACINTO", imageSrc: "sampleImages/marcus.png", color: "#92DDC8" },
   { name: "ESPIRITU", imageSrc: "sampleImages/ezekiel.png", color: "#6eb5ff" },
   { name: "CRUZ", imageSrc: "sampleImages/von.png", color: "#FF6961" },
-  { name: "MACBANTE", imageSrc: "sampleImages/josh.png", color: "#1FFF93" },
+  { name: "MACABANTE", imageSrc: "sampleImages/josh.png", color: "#1FFF93" },
   { name: "DEGUZMAN", imageSrc: "sampleImages/sample.png", color: "pink" },
 ];
 
