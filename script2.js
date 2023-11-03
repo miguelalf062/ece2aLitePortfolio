@@ -1,3 +1,5 @@
+// could have specified a dedicated json file but oh well!
+
 const membersFull = [
   {
     name: "Carl Justine E Pastrana",
