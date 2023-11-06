@@ -200,3 +200,58 @@ p {
   color: whitesmoke;
   font-family: neue;
 }
+
+
+@keyframes socmedWrapperFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.socmedWrapper {
+  display: flex;
+  justify-content: right;
+  margin-top: 1vh;
+  display:none;
+  animation: socmedWrapperFadeIn 1s linear forwards;
+  opacity: 0;
+  animation-delay: 3s;
+  cursor: pointer;
+}
+
+
+
+.socmedContainer {
+  height: 8vh;
+  justify-content: right;
+  margin: 0 2vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.socmedItem {
+  margin: 0 .25vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.socmedItem > img {
+  position: absolute;
+  width: 1vw;
+  height: 1vw;
+}
+
+.socmedItem:nth-child(3) > img {
+  height: 2vw;
+  width: 2vw;
+}
+
+.socmedItem > svg > circle {
+  transition: .3s;
+}

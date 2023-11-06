@@ -276,6 +276,33 @@ const membersFull = [
       },
     ],
     awards: [],
+  }, {
+    name: "Edwin Buen Eloha H. De Guzman",
+    lastName: "DeGuzman",
+    professionalSummary:
+      "Recent graduate who is a highly-creative, detailed-oriented candidate prepared to excel in the field of electronics, communication and contribute to organizational objectives.",
+
+    education: {
+      college: "Bulacan State University-Main Campus",
+      highschool: "Academia De Pulila",
+    },
+    trainingandseminars: [
+      {
+        name: "Basic First-Aid and Rescue Tranining",
+        description: [
+          "Participated in First-Aid and Life Support Training as a part of the NSTP Curriculum",
+        ],
+      },
+    ],
+    extracurricular: [
+    ],
+    awards: [
+      {
+        name: "Senior High School Upper Percentage",
+        description: "Graduated Top 10% of the Graduating Batch",
+      },
+      
+    ],
   },
 ];
 
@@ -290,7 +317,7 @@ const members = [
   { name: "ESPIRITU", imageSrc: "sampleImages/ezekiel.png", color: "#6eb5ff" },
   { name: "CRUZ", imageSrc: "sampleImages/von.png", color: "#FF6961" },
   { name: "MACABANTE", imageSrc: "sampleImages/josh.png", color: "#1FFF93" },
-  { name: "DEGUZMAN", imageSrc: "sampleImages/sample.png", color: "pink" },
+  { name: "DEGUZMAN", imageSrc: "sampleImages/buen.jpeg", color: "#FFDAC1" },
 ];
 
 const membersPortVersion = [
