@@ -1,2 +1,3 @@
-# ECE 2A Group 6
-*omsim barabida
+# DIGITAL PORTFOLIO
+This is the site I built with the help of my groupmates 
+It is a digital portfolio for a company with individual member portfolios
